@@ -9,7 +9,7 @@ public class BattleGUIWorkingExample extends JFrame {
     private Player player;
     private GameCharacter enemy;
     private boolean battleOver = false;
-    private int round = 1;
+    private int round = 2;
 
     // ── Palette ────────────────────────────────────────────────────────────
     private static final Color SCENE_BG    = new Color(240, 242, 245); // light gray scene
